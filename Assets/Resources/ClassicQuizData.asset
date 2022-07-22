@@ -22,15 +22,15 @@ MonoBehaviour:
     - Giovanni Cassini
     - Edmond Halley
     correctAnswer: Galileo Galilei
-  - questionInfo: According to 2019, which is the ugliest dog in the world?
+  - questionInfo: According to 2022, which is the ugliest dog in the world?
     questionType: 0
     questionImg: {fileID: 0}
     options:
+    - Mr. Happy Face
     - Scamp the Tramp
     - Zsa Zsa
-    - Martha
     - Elwood
-    correctAnswer: Scamp the Tramp
+    correctAnswer: Mr. Happy Face
   - questionInfo: Who invented the Stethoscope?
     questionType: 0
     questionImg: {fileID: 0}
