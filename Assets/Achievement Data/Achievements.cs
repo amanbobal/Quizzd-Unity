@@ -1,1 +1,0 @@
-public enum Achievements {classic1,picture1,truefalse1,classic10,picture10,truefalse10,score100,score500,score1000,combo5,combo10,combo25,scoreperfect,sus,allcomplete,}
